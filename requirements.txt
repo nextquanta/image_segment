@@ -1,0 +1,8 @@
+PIL
+matplotlib
+torchvision
+torch
+numpy
+gradio
+setuptools==41.0.0
+requests
